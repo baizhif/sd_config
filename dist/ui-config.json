@@ -5,7 +5,8 @@
     "txt2img/Negative prompt/value": "",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
-        "CounterFeit\u6a21\u578b\u4e13\u7528"
+        "CounterFeit\u6a21\u578b\u4e13\u7528",
+        "橘子模型专用"
     ],
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "DPM++ 2M Karras",
