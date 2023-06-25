@@ -1,0 +1,25 @@
+﻿name,prompt,negative_prompt
+Default,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+NAiDefault,"masterpiece, best quality","text, lowres, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, missing arms, long neck, Humpbacked"
+高质壁纸,"masterpiece, best quality, 8k, finely detailed beautiful eyes, vividcolor, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",
+精致女孩,an extremely delicate and beautiful girl,
+镜头虚化,"depth of field, blurry background, blurry foreground, ",
+脸部增强,"delicate, beautiful, beautiful face, beautiful eyes, beautiful girl, delicate face, delicate girl,",
+画面增强,"high resolution illustration, colorful, 8k wallpaper, highres",
+光线增强,"Cinematic light, ray tracing",
+细节增强,"hyper detailed,ultra-detailed",
+负面扩展,,"artist name, twisted torso, (((fusion), extra, bad, fewer, missing), fist,clenched hand)"
+超高细节,"8k wallpaper,(best quality:1.12),(detailed:1.12),(intricate:1.12),(ultra-detailed:1.12),(highres:1.12)",
+放开裙子,,"(grab clothes, grab dress, grab skirt)"
+隐藏手掌,,"lower arms,hands,palms"
+1,1,
+长T恤,"t-shirt, long t-shirt, narrow waist t-shirt, t-shirt over hips, short dress","bare, nafw, sagging breast, crop top"
+CounterFeit模型专用,"masterpiece, best quality",EasyNegative
+橘子模型专用,"masterpiece, best quality","(worst quality, low quality:1.4)"
+国风模型,"best quality, masterpiece, highres, 1girl,china dress,Beautiful face","NSFW, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet"
+真人照片,"(8k, RAW photo, best quality, masterpiece, ultra highres, ultra detailed:1.2), (realistic, photo-realistic:)",
+崩坏修正,,"easynegative, bad-hands-5"
+平涂风,"ligne claire,lineart,monochrome",
+更强的负面tag,," EasyNegative, bad-artist-anime, bad-artist, bad-hands-5, bad-image-v2-39000, bad_prompt_version2"
+新海诚,"masterpiece, best quality,","EasyNegative, illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, normal quality, ((monochrome)), ((grayscale))"
+修手,"good hands,","bad-hands-5,bad hands, fewer digits, extra digit"
