@@ -5,7 +5,7 @@
     "txt2img/Negative prompt/value": "EasyNegative",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
-        "橘子模型专用",
+        "\u6a58\u5b50\u6a21\u578b\u4e13\u7528"
     ],
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "DPM++ 2M Karras",
