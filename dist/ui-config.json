@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "masterpiece, best quality, ",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "EasyNegative",
+    "txt2img/Negative prompt/value": "EasyNegative, (nsfw:1.4), ",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
         "\u6a58\u5b50\u6a21\u578b\u4e13\u7528"
